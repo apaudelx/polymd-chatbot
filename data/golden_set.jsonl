@@ -1,0 +1,20 @@
+{"id":"q001","query":"What is the density of PMMA?","expected_abstain":false,"expected_chunk_type":"property","expected_terms":["pmma","density"]}
+{"id":"q002","query":"What is the glass transition temperature of polystyrene?","expected_abstain":false,"expected_chunk_type":"property","expected_terms":["polystyrene","glass transition"]}
+{"id":"q003","query":"What force fields are used for PET simulations?","expected_abstain":false,"expected_chunk_type":"property","expected_terms":["pet","force field"]}
+{"id":"q004","query":"Papers discussing polymer crystallinity","expected_abstain":false,"expected_chunk_type":"paper","expected_terms":["title","abstract"]}
+{"id":"q005","query":"Compare PMMA and PET properties","expected_abstain":false,"expected_chunk_type":"property","expected_terms":["pmma","pet"]}
+{"id":"q006","query":"What is the diffusion coefficient of oxygen in PLA?","expected_abstain":false,"expected_chunk_type":"property","expected_terms":["pla","diffusion"]}
+{"id":"q007","query":"DOI for PMMA density studies","expected_abstain":false,"expected_chunk_type":"paper","expected_terms":["doi","pmma"]}
+{"id":"q008","query":"Thermal properties of polyethylene","expected_abstain":false,"expected_chunk_type":"property","expected_terms":["polyethylene"]}
+{"id":"q009","query":"What papers studied nanocomposite polymers?","expected_abstain":false,"expected_chunk_type":"paper","expected_terms":["paper","abstract"]}
+{"id":"q010","query":"Young's modulus of nylon","expected_abstain":false,"expected_chunk_type":"property","expected_terms":["nylon","young"]}
+{"id":"q011","query":"What is the density of unobtainium polymer X-999?","expected_abstain":true,"expected_chunk_type":"property","expected_terms":["x-999","unobtainium"]}
+{"id":"q012","query":"Give melting point of fictional polymer QWERTY-17","expected_abstain":true,"expected_chunk_type":"property","expected_terms":["qwerty-17"]}
+{"id":"q013","query":"What is the force field for madeup-polymer-abc?","expected_abstain":true,"expected_chunk_type":"property","expected_terms":["madeup-polymer-abc"]}
+{"id":"q014","query":"DOI for polymer called NODATA-2042","expected_abstain":true,"expected_chunk_type":"paper","expected_terms":["nodata-2042"]}
+{"id":"q015","query":"Glass transition of polymer HELIOS-UNKNOWN","expected_abstain":true,"expected_chunk_type":"property","expected_terms":["helios-unknown"]}
+{"id":"q016","query":"Which paper reports properties for XYZ_NONEXISTENT?","expected_abstain":true,"expected_chunk_type":"paper","expected_terms":["xyz_nonexistent"]}
+{"id":"q017","query":"Provide density data for polymer VOIDMATERIAL","expected_abstain":true,"expected_chunk_type":"property","expected_terms":["voidmaterial"]}
+{"id":"q018","query":"Find references on polymer ALPHA_NIL_00","expected_abstain":true,"expected_chunk_type":"paper","expected_terms":["alpha_nil_00"]}
+{"id":"q019","query":"Diffusion coefficient of imaginary polymer BETA_NULL","expected_abstain":true,"expected_chunk_type":"property","expected_terms":["beta_null"]}
+{"id":"q020","query":"Mechanical properties of polymer OMEGA_GHOST","expected_abstain":true,"expected_chunk_type":"property","expected_terms":["omega_ghost"]}

@@ -1,0 +1,31 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Generated application artifacts
+chroma_db/
+data/lexical_index.json.gz
+data/renders/
+reports/
+
+# Local planning/scratch files
+scripts/clean_submission_repo.py
+prd.md
+test_fixes.py
+test_pipeline.py
+POLYMER_RAG_PRD.md
